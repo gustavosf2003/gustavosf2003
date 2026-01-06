@@ -1,4 +1,4 @@
-### Hey! I'm Gustavo Ferreira:) 👋
+### Hey! I'm Gustavo Ferreira :) 👋
 
 ##
 
