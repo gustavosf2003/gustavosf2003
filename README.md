@@ -1,10 +1,9 @@
-### Hey Stalker! I'm Gustavo Ferreira, a front-end developer at Queenslab :) 👋
+### Hey! I'm Gustavo Ferreira:) 👋
 
 ##
 
--💻  Front-end Developer <br/>
--🚀  Developer at <a href="https://www.queenslab.co/"> Queenslab</a> <br/>
--🇵🇹   Lisbon, Portugal <br/>
+-💻  Software Developer <br/>
+-🇧🇷  São Paulo, Brazil <br/>
 
 <div align="center">
   <a href="https://github.com/Gustavosf2003">
